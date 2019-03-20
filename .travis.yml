@@ -1,7 +1,11 @@
 os: windows
 language: csharp
 mono: none
+
+
+SHELL=cmd
+
 script:
  - cd csharp-protogen
  - dotnet restore
- - call "C:\Users\travis\build\ramosisw\csharp-protogen\csharp-protogen\generate_protos.bat"
+ - call "C:\\Users\\travis\\build\\ramosisw\\csharp-protogen\\csharp-protogen\\generate_protos.bat"
