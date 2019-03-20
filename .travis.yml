@@ -4,4 +4,4 @@ mono: none
 script:
  - cd csharp-protogen
  - dotnet restore
- - dir /S /A /B
+ - call "C:\Users\travis\build\ramosisw\csharp-protogen\csharp-protogen\generate_protos.bat"
