@@ -2,9 +2,6 @@ os: windows
 language: csharp
 mono: none
 
-
-SHELL=cmd
-
 script:
  - cd csharp-protogen
  - dotnet restore
