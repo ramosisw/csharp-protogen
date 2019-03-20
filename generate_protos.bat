@@ -36,7 +36,7 @@ for /F "tokens=3,5 usebackq delims== " %%i in (%CurrDirName%.csproj) DO (
 )
 
 @rem packages will be available in nuget cache directory once the project is built or after "dotnet restore"
-set "PROTOC=%UserProfile%\.nuget\packages\Google.Protobuf.Tools\%PROTOC_V%\tools\windows_x64\protoc.exe"
+set PROTOC="%UserProfile%\.nuget\packages\Google.Protobuf.Tools\%PROTOC_V%\tools\windows_x64\protoc.exe"
 set PLUGIN="%UserProfile%\.nuget\packages\Grpc.Tools\%PLUGIN_V%\tools\windows_x64\grpc_csharp_plugin.exe"
 SET ERR=0
 
