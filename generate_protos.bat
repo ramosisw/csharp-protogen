@@ -23,7 +23,8 @@ cd /d %~dp0
 echo Determining Version of Google.Protobuf.Tools ^& Grpc.Tools
 SET PROTOC_V=3.7.0
 SET PLUGIN_V=1.19.0
-for /F "tokens=3,5 usebackq delims== " %%i in (sanval-gateway-proto.csproj) DO (
+for %%I in (.) do set CurrDirName=%%~nxI
+for /F "tokens=3,5 usebackq delims== " %%i in (%CurrDirName%.csproj) DO (
     if %%i == "Google.Protobuf.Tools" (
         echo found %%~i v%%~j
         SET PROTOC_V=%%~j
