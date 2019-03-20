@@ -1,0 +1,11 @@
+D:\desarrollo\dotnet\folder with space\csharp-protogen\csharp_protogen\bin\Debug\netcoreapp2.2\csharp-protogen.deps.json
+D:\desarrollo\dotnet\folder with space\csharp-protogen\csharp_protogen\bin\Debug\netcoreapp2.2\csharp-protogen.runtimeconfig.json
+D:\desarrollo\dotnet\folder with space\csharp-protogen\csharp_protogen\bin\Debug\netcoreapp2.2\csharp-protogen.runtimeconfig.dev.json
+D:\desarrollo\dotnet\folder with space\csharp-protogen\csharp_protogen\bin\Debug\netcoreapp2.2\csharp-protogen.dll
+D:\desarrollo\dotnet\folder with space\csharp-protogen\csharp_protogen\bin\Debug\netcoreapp2.2\csharp-protogen.pdb
+D:\desarrollo\dotnet\folder with space\csharp-protogen\csharp_protogen\obj\Debug\netcoreapp2.2\csharp-protogen.csprojAssemblyReference.cache
+D:\desarrollo\dotnet\folder with space\csharp-protogen\csharp_protogen\obj\Debug\netcoreapp2.2\csharp-protogen.csproj.CoreCompileInputs.cache
+D:\desarrollo\dotnet\folder with space\csharp-protogen\csharp_protogen\obj\Debug\netcoreapp2.2\csharp-protogen.AssemblyInfoInputs.cache
+D:\desarrollo\dotnet\folder with space\csharp-protogen\csharp_protogen\obj\Debug\netcoreapp2.2\csharp-protogen.AssemblyInfo.cs
+D:\desarrollo\dotnet\folder with space\csharp-protogen\csharp_protogen\obj\Debug\netcoreapp2.2\csharp-protogen.dll
+D:\desarrollo\dotnet\folder with space\csharp-protogen\csharp_protogen\obj\Debug\netcoreapp2.2\csharp-protogen.pdb

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package ramosisw.csharp_protogen.protos;
+
+message Empty {
+}
+
+message Message {
+	int32 code = 1;
+	string message = 2;
+}
