@@ -5,4 +5,4 @@ mono: none
 script:
  - cd csharp-protogen
  - dotnet restore
- - call generate_protos.bat
+ - generate_protos.bat
