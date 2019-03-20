@@ -1,0 +1,8 @@
+os: windows
+language: csharp
+mono: none
+dotnet: 2.2
+script:
+ - cd csharp-protogen
+ - dotnet restore
+ - generate_protos.bat
