@@ -1,7 +1,6 @@
 os: windows
 language: csharp
 mono: none
-dotnet: 2.1.403
 script:
  - cd csharp-protogen
  - dotnet restore
