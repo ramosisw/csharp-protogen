@@ -5,4 +5,4 @@ mono: none
 script:
  - cd csharp-protogen
  - dotnet restore
- - Start-Process -FilePath "cmd.exe" -ArgumentList {/c "generate_protos.bat"}
+ - cmd /c generate_protos.bat
